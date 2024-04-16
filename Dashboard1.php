@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>YOU LOGGED IN!</h1>
-    <p>Welcome You have successfully logged in.</p>
+    <p>Welcome to the home page.</p>
 </body>
 </html>
