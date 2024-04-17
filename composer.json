@@ -2,7 +2,7 @@
     "name": "your-username/project-name",
     "description": "Description of your project",
     "type": "project",
-    "license": "MIT", // or any other license you prefer
+    "license": "MIT",
     "require": {
         "php": "^7.4"
     },
